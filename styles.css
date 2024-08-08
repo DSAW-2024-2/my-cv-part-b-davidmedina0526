@@ -1,0 +1,78 @@
+/* Aquí van tus estilos CSS */
+main{
+    display: flex;
+    width: 100%;
+}
+
+body {
+    font-family: 'Albert Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+h1 {
+    float: left;
+    font-size: 35px;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+}
+
+.Encabezado{
+    float: left;
+    background: #B7ABA9;
+    width: 35%;
+    height: auto;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+    text-size-adjust: auto;
+}
+
+.Texto{
+    float: right;
+    width: 65%;
+    height: 100%;
+    line-height: 1.2;
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 1%;
+    padding-right: 2%;
+    margin-left: 36%;
+    margin-top: -1030px;
+}
+
+#Foto{
+    height: 50%;
+    width: 50%;
+    max-width: 300px;
+    max-height: 300px;
+    padding-left: 24%;
+    border-radius: 50%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+#Informacion{
+    float: left;
+    font-size: 20px;
+    height: 100%;
+    width: auto;
+    padding-left: 1%;
+    padding-right: 2%;
+    padding-bottom: 20%;
+    text-align: left;
+    text-size-adjust: auto;
+    line-height: 1.2;
+    word-break: break-word;
+}
+
+#Linea{
+    height: 7px;
+    width: 90%;
+    background-color: #3498DB;
+}
+
+#Justificado{
+    text-align: justify;
+}
