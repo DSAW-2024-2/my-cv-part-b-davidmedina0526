@@ -85,3 +85,5 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+Link a mi repositorio: https://dsaw-2024-2.github.io/my-cv-part-b-davidmedina0526/
